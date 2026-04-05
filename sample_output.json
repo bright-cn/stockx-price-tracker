@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://stockx.com/sample-sneaker-size-10",
+    "title": "Sample Product from StockX",
+    "brand": "Sample Brand",
+    "initial_price": 59.99,
+    "final_price": 44.99,
+    "currency": "USD",
+    "discount": "25%",
+    "in_stock": true,
+    "rating": 4.5,
+    "reviews_count": 1234,
+    "seller_name": "StockX Official Store",
+    "images": [
+      "https://stockx.com/images/product1.jpg",
+      "https://stockx.com/images/product2.jpg"
+    ],
+    "description": "This is a sample product listing collected from StockX using Bright Data's Web Scraper API.",
+    "timestamp": "2025-01-15T10:30:00Z"
+  }
+]
